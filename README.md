@@ -2,6 +2,8 @@
 
 **DarkReader** 是一个基于 Qt/QML 开发的轻量级屏幕调光工具。它通过在屏幕上覆盖一层可调节透明度的黑色遮罩，帮助用户在深夜或暗光环境下降低屏幕亮度，缓解眼部疲劳。
 
+<img width="502" height="139" alt="_16G(BQ@9K79VSW4LGY KQH" src="https://github.com/user-attachments/assets/93fa4a21-a688-43d7-9700-9a518a700918" />
+
 ## 注意
 **某些全屏软件可能不适用，可以选择窗口模式运行。**
 
